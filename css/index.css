@@ -1,0 +1,3970 @@
+/* screen - index */
+
+.index {
+  background: linear-gradient(180deg, rgb(0.8372093725483865, 15.069769062101841, 30.139538124203682) 1.5625%, rgb(64.81249898672104, 0.27005207317415625, 0.27005207317415625) 23.4375%, rgb(1.0000000591389835, 18.000000827014446, 36.00000165402889) 51.04166865348816%, rgb(0, 0, 0) 95.83333134651184%);
+  background-color: rgba(255,255,255,1.0);
+  border: 1px none;
+  margin: 0px;
+  min-height: 1852px;
+  min-width: 1108px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+.index .title-IO3Fu5 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-lexend_zetta);
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 800;
+  height: auto;
+  left: calc(50.00% - 203px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  transform: rotate(0.07deg);
+  width: 455px;
+}
+
+.index .follow-the-interacti-IO3Fu5 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: calc(50.00% - 163px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 126px;
+  transform: rotate(0.07deg);
+  width: 372px;
+}
+
+.index .ge-5-IO3Fu5 {
+  background-color: transparent;
+  height: 447px;
+  left: 3.70%;
+  overflow: hidden;
+  position: absolute;
+  top: 1385px;
+  transform: rotate(0.25deg);
+  width: 93.06%;
+}
+
+.index .estrelas-m-PH2y1j {
+  height: 348px;
+  left: 11.00%;
+  top: -2px;
+  transform: rotate(-0.25deg);
+  width: 87.50%;
+}
+
+.index .estrelas-g-PH2y1j {
+  height: 354px;
+  left: 0px;
+  top: 20px;
+  transform: rotate(-0.25deg);
+  width: 99.82%;
+}
+
+.index .estrelas-p-PH2y1j {
+  height: 331px;
+  left: 0px;
+  top: 36px;
+  transform: rotate(-0.25deg);
+  width: 90.79%;
+}
+
+.index .ge-4-IO3Fu5 {
+  background-color: transparent;
+  height: 353px;
+  left: 2.80%;
+  overflow: hidden;
+  position: absolute;
+  top: 1029px;
+  transform: rotate(-179.18deg);
+  width: 95.76%;
+}
+
+.index .estrelas-m-a5k0YS {
+  height: 335px;
+  left: 11.12%;
+  top: -6px;
+  transform: rotate(179.18deg);
+  width: 87.78%;
+}
+
+.index .estrelas-g-a5k0YS {
+  height: 337px;
+  left: 0px;
+  top: 18px;
+  transform: rotate(179.18deg);
+  width: 100.10%;
+}
+
+.index .estrelas-p-a5k0YS {
+  height: 323px;
+  left: 0px;
+  top: 37px;
+  transform: rotate(179.18deg);
+  width: 91.06%;
+}
+
+.index .ge-3-IO3Fu5 {
+  height: 353px;
+  left: 1.99%;
+  top: 674px;
+  width: 95.76%;
+}
+
+.index .estrelas-m-JHIvOC {
+  height: 322px;
+  left: 11.10%;
+  top: 1px;
+  width: 87.36%;
+}
+
+.index .estrelas-g-JHIvOC {
+  height: 322px;
+  left: 0px;
+  top: 26px;
+  width: 99.68%;
+}
+
+.index .estrelas-p-JHIvOC {
+  height: 309px;
+  left: 0px;
+  top: 43px;
+  width: 90.65%;
+}
+
+.index .ge-2-IO3Fu5 {
+  height: 353px;
+  left: 2.20%;
+  top: 367px;
+  transform: rotate(177.85deg);
+  width: 95.76%;
+}
+
+.index .estrelas-m-o47sgl {
+  height: 357px;
+  left: 10.79%;
+  top: -18px;
+  transform: rotate(-177.85deg);
+  width: 88.44%;
+}
+
+.index .estrelas-g-o47sgl {
+  height: 362px;
+  left: -0.21%;
+  top: 5px;
+  transform: rotate(-177.85deg);
+  width: 100.75%;
+}
+
+.index .estrelas-p-o47sgl {
+  height: 345px;
+  left: -0.28%;
+  top: 25px;
+  transform: rotate(-177.85deg);
+  width: 91.68%;
+}
+
+.index .ge-1-IO3Fu5 {
+  background-color: transparent;
+  height: 353px;
+  left: 0.99%;
+  overflow: hidden;
+  position: absolute;
+  top: 7px;
+  width: 96.84%;
+}
+
+.index .estrelas-m-rbkfQC {
+  height: 337px;
+  left: 17.58%;
+  top: 2px;
+  width: 80.90%;
+}
+
+.index .estrelas-g-rbkfQC {
+  height: 322px;
+  left: 1.21%;
+  top: 27px;
+  width: 98.56%;
+}
+
+.index .estrelas-p-rbkfQC {
+  height: 308px;
+  left: 1.12%;
+  top: 45px;
+  width: 89.64%;
+}
+
+.index .lua-IO3Fu5 {
+  background-color: transparent;
+  height: 24px;
+  left: calc(50.00% - 12px);
+  position: absolute;
+  top: 900px;
+  width: 24px;
+}
+
+.index .sol-IO3Fu5 {
+  height: 396px;
+  left: calc(50.00% - 179px);
+  top: 232px;
+  width: 451px;
+}
+
+.index .mercurio-IO3Fu5 {
+  height: 53px;
+  left: calc(50.00% + 83px);
+  top: 644px;
+  width: 53px;
+}
+
+.index .venus-IO3Fu5 {
+  height: 64px;
+  left: calc(50.00% - 37px);
+  top: 792px;
+  width: 64px;
+}
+
+.index .terra-IO3Fu5 {
+  height: 81px;
+  left: 50.00%;
+  top: 914px;
+  width: 81px;
+}
+
+.index .marte-IO3Fu5 {
+  height: 59px;
+  left: calc(50.00% - 163px);
+  top: 989px;
+  width: 59px;
+}
+
+.index .jupiter-IO3Fu5 {
+  height: 185px;
+  left: calc(50.00% - 101px);
+  top: 1125px;
+  width: 185px;
+}
+
+.index .saturno-IO3Fu5 {
+  height: 136px;
+  left: calc(50.00% - 27px);
+  top: 1331px;
+  width: 253px;
+}
+
+.index .uranus-IO3Fu5 {
+  height: 100px;
+  left: calc(50.00% - 47px);
+  top: 1592px;
+  width: 100px;
+}
+
+.index .nepturne-IO3Fu5 {
+  height: 99px;
+  left: calc(50.00% - 183px);
+  top: 1412px;
+  width: 99px;
+}
+
+.index .linhas8-IO3Fu5 {
+  background-color: transparent;
+  height: 117px;
+  left: calc(50.00% + 146px);
+  position: absolute;
+  top: 555px;
+  width: 78px;
+}
+
+.index .linhas7-IO3Fu5 {
+  background-color: transparent;
+  height: 104px;
+  left: calc(50.00% - 23px);
+  position: absolute;
+  top: 682px;
+  width: 90px;
+}
+
+.index .linhas6-IO3Fu5 {
+  background-color: transparent;
+  height: 116px;
+  left: calc(50.00% + 35px);
+  position: absolute;
+  top: 826px;
+  width: 79px;
+}
+
+.index .linhas5-IO3Fu5 {
+  background-color: transparent;
+  height: 111px;
+  left: calc(50.00% - 150px);
+  position: absolute;
+  top: 1529px;
+  width: 87px;
+}
+
+.index .linhas4-IO3Fu5 {
+  background-color: transparent;
+  height: 122px;
+  left: calc(50.00% + 105px);
+  position: absolute;
+  top: 1210px;
+  width: 71px;
+}
+
+.index .linhas3-IO3Fu5 {
+  background-color: transparent;
+  height: 61px;
+  left: calc(50.00% - 101px);
+  position: absolute;
+  top: 1348px;
+  width: 127px;
+}
+
+.index .linhas2-IO3Fu5 {
+  background-color: transparent;
+  height: 162px;
+  left: calc(50.00% - 202px);
+  position: absolute;
+  top: 1045px;
+  width: 87px;
+}
+
+
+
+.index .linhas1-IO3Fu5 {
+  background-color: transparent;
+  height: 74px;
+  left: calc(50.00% - 108px);
+  position: absolute;
+  top: 1004px;
+  width: 120px;
+}
+
+.index .x2023-fernando-fbio-y-IO3Fu5 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-roboto_slab);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: calc(50.00% - 187px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 1835px;
+  width: auto;
+}
+
+.index .modal-apod-IO3Fu5 {
+  background-color: transparent;
+  height: 357px;
+  left: calc(50.00% + 36px);
+  overflow: hidden;
+  position: absolute;
+  top: 18px;
+  width: 490px;
+}
+
+.index .rectangle-1-932uYy {
+  left: calc(50.00% - 244px);
+  top: 0px;
+}
+
+.index .rectangle-7-932uYy {
+  background-color: var(--jaguar);
+  border: 1.162866473197937px solid;
+  border-color: var(--white);
+  border-radius: 11.77px;
+  height: 356px;
+  left: calc(50.00% - 244px);
+  top: 0px;
+  width: 483px;
+}
+
+.index .ge-2-932uYy {
+  height: 162px;
+  left: calc(50.00% - 244px);
+  top: 186px;
+  transform: rotate(0.31deg);
+  width: 488px;
+}
+
+.index .estrelas-m-vmozos {
+  height: 151px;
+  left: calc(50.00% - 190px);
+  top: -1px;
+  transform: rotate(-0.31deg);
+  width: 428px;
+}
+
+.index .estrelas-g-vmozos {
+  height: 151px;
+  left: calc(50.00% - 244px);
+  top: 10px;
+  transform: rotate(-0.31deg);
+  width: 488px;
+}
+
+.index .estrelas-p-vmozos {
+  height: 145px;
+  left: calc(50.00% - 244px);
+  top: 19px;
+  transform: rotate(-0.31deg);
+  width: 444px;
+}
+
+.index .ge-3-932uYy {
+  height: 160px;
+  left: calc(50.00% - 237px);
+  top: 26px;
+  transform: rotate(-179.86deg);
+  width: 480px;
+}
+
+.index .estrelas-m-DZ07EE {
+  height: 147px;
+  left: calc(50.00% - 187px);
+  top: -1px;
+  transform: rotate(179.86deg);
+  width: 421px;
+}
+
+.index .estrelas-g-DZ07EE {
+  height: 147px;
+  left: calc(50.00% - 240px);
+  top: 11px;
+  transform: rotate(179.86deg);
+  width: 480px;
+}
+
+.index .estrelas-p-DZ07EE {
+  height: 141px;
+  left: calc(50.00% - 240px);
+  top: 19px;
+  transform: rotate(179.86deg);
+  width: 437px;
+}
+
+.index .rectangle-2-932uYy {
+  height: 323px;
+  left: calc(50.00% - 236px);
+  top: 26px;
+  width: 468px;
+}
+
+.index .x-lg-932uYy {
+  left: calc(50.00% + 210px);
+}
+
+.index .astronomy-photo-of-the-day-932uYy {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 247px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4.651465892791748px 4.651465892791748px #00000040;
+  top: 6px;
+  transform: rotate(0.07deg);
+  width: 395px;
+}
+
+.index .modal-earth-IO3Fu5 {
+  background-color: transparent;
+  height: 357px;
+  left: calc(50.00% - 485px);
+  overflow: hidden;
+  position: absolute;
+  top: 745px;
+  width: 493px;
+}
+
+.index .rectangle-1-3oZ35N {
+  left: calc(50.00% - 241px);
+  top: 0px;
+}
+
+.index .rectangle-7-3oZ35N {
+  background-color: var(--jaguar);
+  border: 1.162866473197937px solid;
+  border-color: var(--white);
+  border-radius: 11.77px;
+  height: 357px;
+  left: calc(50.00% - 241px);
+  top: 0px;
+  width: 484px;
+}
+
+.index .ge-2-3oZ35N {
+  height: 162px;
+  left: calc(50.00% - 242px);
+  top: 186px;
+  transform: rotate(0.31deg);
+  width: 488px;
+}
+
+.index .estrelas-m-eCMrec {
+  height: 151px;
+  left: calc(50.00% - 190px);
+  top: -1px;
+  transform: rotate(-0.31deg);
+  width: 428px;
+}
+
+.index .estrelas-g-eCMrec {
+  height: 151px;
+  left: calc(50.00% - 244px);
+  top: 10px;
+  transform: rotate(-0.31deg);
+  width: 488px;
+}
+
+.index .estrelas-p-eCMrec {
+  height: 145px;
+  left: calc(50.00% - 244px);
+  top: 19px;
+  transform: rotate(-0.31deg);
+  width: 444px;
+}
+
+.index .ge-3-3oZ35N {
+  height: 160px;
+  left: calc(50.00% - 234px);
+  top: 26px;
+  transform: rotate(-179.86deg);
+  width: 480px;
+}
+
+.index .estrelas-m-2vSLf0 {
+  height: 147px;
+  left: calc(50.00% - 187px);
+  top: -1px;
+  transform: rotate(179.86deg);
+  width: 421px;
+}
+
+.index .estrelas-g-2vSLf0 {
+  height: 147px;
+  left: calc(50.00% - 240px);
+  top: 11px;
+  transform: rotate(179.86deg);
+  width: 480px;
+}
+
+.index .estrelas-p-2vSLf0 {
+  height: 141px;
+  left: calc(50.00% - 240px);
+  top: 19px;
+  transform: rotate(179.86deg);
+  width: 437px;
+}
+
+.index .rectangle-2-3oZ35N {
+  height: 302px;
+  left: calc(50.00% - 151px);
+  top: 26px;
+  width: 302px;
+}
+
+.index .x-lg-3oZ35N {
+  left: calc(50.00% + 213px);
+}
+
+.index .earth-3oZ35N {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 200px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4.651465892791748px 4.651465892791748px #00000040;
+  top: 6px;
+  transform: rotate(0.07deg);
+  width: 83px;
+}
+
+.index .group-18-3oZ35N {
+  background-color: transparent;
+  height: 27px;
+  left: calc(50.00% - 234px);
+  position: absolute;
+  top: 331px;
+  width: 115px;
+}
+
+.index .terra-3oZ35N {
+  height: 43px;
+  left: calc(50.00% - 238px);
+  top: 6px;
+  width: 43px;
+}
+
+.index .group-20-3oZ35N {
+  background-color: transparent;
+  height: 27px;
+  left: calc(50.00% - 116px);
+  position: absolute;
+  top: 331px;
+  width: 115px;
+}
+
+.index .group-22-3oZ35N {
+  left: calc(50.00% + 119px);
+}
+
+.index .group-21-3oZ35N {
+  background-color: transparent;
+  height: 27px;
+  left: calc(50.00% + 2px);
+  position: absolute;
+  top: 331px;
+  width: 115px;
+}
+
+.index .earth-1-3oZ35N {
+  background-color: transparent;
+  height: 296px;
+  left: calc(50.00% - 148px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 28px;
+  width: 296px;
+}
+
+.index .modal-mercury-IO3Fu5 {
+  background-color: transparent;
+  height: 357px;
+  left: calc(50.00% - 485px);
+  overflow: hidden;
+  position: absolute;
+  top: 384px;
+  width: 489px;
+}
+
+.index .rectangle-1-uzXULA {
+  left: calc(50.00% - 243px);
+  top: 0px;
+}
+
+.index .rectangle-7-uzXULA {
+  background-color: var(--jaguar);
+  border: 1.162866473197937px solid;
+  border-color: var(--white);
+  border-radius: 11.77px;
+  height: 357px;
+  left: calc(50.00% - 243px);
+  top: 0px;
+  width: 484px;
+}
+
+.index .ge-2-uzXULA {
+  height: 162px;
+  left: calc(50.00% - 244px);
+  top: 186px;
+  transform: rotate(0.31deg);
+  width: 488px;
+}
+
+.index .estrelas-m-oyadhl {
+  height: 151px;
+  left: calc(50.00% - 190px);
+  top: -1px;
+  transform: rotate(-0.31deg);
+  width: 428px;
+}
+
+.index .estrelas-g-oyadhl {
+  height: 151px;
+  left: calc(50.00% - 244px);
+  top: 10px;
+  transform: rotate(-0.31deg);
+  width: 488px;
+}
+
+.index .estrelas-p-oyadhl {
+  height: 145px;
+  left: calc(50.00% - 244px);
+  top: 19px;
+  transform: rotate(-0.31deg);
+  width: 444px;
+}
+
+.index .ge-3-uzXULA {
+  height: 160px;
+  left: calc(50.00% - 236px);
+  top: 26px;
+  transform: rotate(-179.86deg);
+  width: 480px;
+}
+
+.index .estrelas-m-QH3Npl {
+  height: 147px;
+  left: calc(50.00% - 187px);
+  top: -1px;
+  transform: rotate(179.86deg);
+  width: 421px;
+}
+
+.index .estrelas-g-QH3Npl {
+  height: 147px;
+  left: calc(50.00% - 240px);
+  top: 11px;
+  transform: rotate(179.86deg);
+  width: 480px;
+}
+
+.index .estrelas-p-QH3Npl {
+  height: 141px;
+  left: calc(50.00% - 240px);
+  top: 19px;
+  transform: rotate(179.86deg);
+  width: 437px;
+}
+
+.index .rectangle-2-uzXULA {
+  height: 302px;
+  left: calc(50.00% - 144px);
+  top: 23px;
+  width: 302px;
+}
+
+.index .x-lg-uzXULA {
+  left: calc(50.00% + 211px);
+}
+
+.index .mercury-uzXULA {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 201px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4.651465892791748px 4.651465892791748px #00000040;
+  top: 4px;
+  transform: rotate(0.07deg);
+  width: 114px;
+}
+
+.index .mercurio-uzXULA {
+  height: 43px;
+  left: calc(50.00% - 240px);
+  top: 3px;
+  width: 43px;
+}
+
+.index .asdiuas-uzXULA {
+  background-color: transparent;
+  height: 28px;
+  left: calc(50.00% - 236px);
+  position: absolute;
+  top: 330px;
+  width: 115px;
+}
+
+.index .group-13-uzXULA {
+  left: calc(50.00% - 118px);
+}
+
+.index .group-19-uzXULA {
+  background-color: transparent;
+  height: 27px;
+  left: calc(50.00% + 117px);
+  position: absolute;
+  top: 331px;
+  width: 115px;
+}
+
+.index .group-16-uzXULA {
+  background-color: transparent;
+  height: 27px;
+  left: 50.00%;
+  position: absolute;
+  top: 331px;
+  width: 115px;
+}
+
+.index .mercury-1-uzXULA {
+  background-color: transparent;
+  height: 296px;
+  left: calc(50.00% - 142px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 27px;
+  width: 296px;
+}
+
+.index .modal-venus-IO3Fu5 {
+  background-color: transparent;
+  height: 357px;
+  left: calc(50.00% + 36px);
+  overflow: hidden;
+  position: absolute;
+  top: 384px;
+  width: 490px;
+}
+
+.index .rectangle-1-eaGtNU {
+  left: calc(50.00% - 241px);
+  top: 0px;
+}
+
+.index .rectangle-7-eaGtNU {
+  background-color: var(--jaguar);
+  border: 1.162866473197937px solid;
+  border-color: var(--white);
+  border-radius: 11.77px;
+  height: 357px;
+  left: calc(50.00% - 241px);
+  top: 0px;
+  width: 484px;
+}
+
+.index .ge-2-eaGtNU {
+  height: 162px;
+  left: calc(50.00% - 241px);
+  top: 186px;
+  transform: rotate(0.31deg);
+  width: 488px;
+}
+
+.index .estrelas-m-yrrw5F {
+  height: 151px;
+  left: calc(50.00% - 190px);
+  top: -1px;
+  transform: rotate(-0.31deg);
+  width: 428px;
+}
+
+.index .estrelas-g-yrrw5F {
+  height: 151px;
+  left: calc(50.00% - 244px);
+  top: 10px;
+  transform: rotate(-0.31deg);
+  width: 486px;
+}
+
+.index .estrelas-p-yrrw5F {
+  height: 145px;
+  left: calc(50.00% - 244px);
+  top: 19px;
+  transform: rotate(-0.31deg);
+  width: 444px;
+}
+
+.index .ge-3-eaGtNU {
+  height: 160px;
+  left: calc(50.00% - 234px);
+  top: 26px;
+  transform: rotate(-179.86deg);
+  width: 480px;
+}
+
+.index .estrelas-m-SFcEtG {
+  height: 147px;
+  left: calc(50.00% - 187px);
+  top: -1px;
+  transform: rotate(179.86deg);
+  width: 421px;
+}
+
+.index .estrelas-g-SFcEtG {
+  height: 147px;
+  left: calc(50.00% - 239px);
+  top: 11px;
+  transform: rotate(179.86deg);
+  width: 479px;
+}
+
+.index .estrelas-p-SFcEtG {
+  height: 141px;
+  left: calc(50.00% - 239px);
+  top: 19px;
+  transform: rotate(179.86deg);
+  width: 435px;
+}
+
+.index .rectangle-2-eaGtNU {
+  height: 302px;
+  left: calc(50.00% - 157px);
+  top: 23px;
+  width: 302px;
+}
+
+.index .x-lg-eaGtNU {
+  left: calc(50.00% + 213px);
+}
+
+.index .venus-eaGtNU {
+  height: auto;
+  left: calc(50.00% - 198px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  text-align: center;
+  text-shadow: 0px 4.651465892791748px 4.651465892791748px #00000040;
+  top: 5px;
+  transform: rotate(0.07deg);
+  width: 83px;
+}
+
+.index .venus-hRFAg9 {
+  height: 41px;
+  left: calc(50.00% - 236px);
+  top: 6px;
+  width: 41px;
+}
+
+.index .group-13-eaGtNU {
+  left: calc(50.00% - 233px);
+}
+
+.index .group-14-eaGtNU {
+  background-color: transparent;
+  height: 27px;
+  left: calc(50.00% - 115px);
+  position: absolute;
+  top: 331px;
+  width: 115px;
+}
+
+.index .group-17-eaGtNU {
+  background-color: transparent;
+  height: 27px;
+  left: calc(50.00% + 119px);
+  position: absolute;
+  top: 331px;
+  width: 115px;
+}
+
+.index .group-15-eaGtNU {
+  background-color: transparent;
+  height: 27px;
+  left: calc(50.00% + 2px);
+  position: absolute;
+  top: 331px;
+  width: 115px;
+}
+
+.index .venus-1-eaGtNU {
+  background-color: transparent;
+  height: 296px;
+  left: calc(50.00% - 154px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 26px;
+  width: 296px;
+}
+
+.index .modal-neptune-IO3Fu5 {
+  background-color: transparent;
+  height: 357px;
+  left: calc(50.00% + 39px);
+  overflow: hidden;
+  position: absolute;
+  top: 1473px;
+  width: 491px;
+}
+
+.index .rectangle-1-ds10Zn {
+  left: calc(50.00% - 244px);
+  top: 1px;
+}
+
+.index .rectangle-7-ds10Zn {
+  background-color: var(--jaguar);
+  border: 1.162866473197937px solid;
+  border-color: var(--white);
+  border-radius: 11.77px;
+  height: 357px;
+  left: calc(50.00% - 244px);
+  top: 0px;
+  width: 484px;
+}
+
+.index .ge-2-ds10Zn {
+  height: 162px;
+  left: calc(50.00% - 245px);
+  top: 186px;
+  transform: rotate(0.31deg);
+  width: 488px;
+}
+
+.index .estrelas-m-mOXNVX {
+  height: 151px;
+  left: calc(50.00% - 190px);
+  top: -1px;
+  transform: rotate(-0.31deg);
+  width: 428px;
+}
+
+.index .estrelas-g-mOXNVX {
+  height: 151px;
+  left: calc(50.00% - 244px);
+  top: 10px;
+  transform: rotate(-0.31deg);
+  width: 488px;
+}
+
+.index .estrelas-p-mOXNVX {
+  height: 145px;
+  left: calc(50.00% - 244px);
+  top: 19px;
+  transform: rotate(-0.31deg);
+  width: 444px;
+}
+
+.index .ge-3-ds10Zn {
+  height: 160px;
+  left: calc(50.00% - 237px);
+  top: 26px;
+  transform: rotate(-179.86deg);
+  width: 480px;
+}
+
+.index .estrelas-m-3xIc2M {
+  height: 147px;
+  left: calc(50.00% - 187px);
+  top: -1px;
+  transform: rotate(179.86deg);
+  width: 421px;
+}
+
+.index .estrelas-g-3xIc2M {
+  height: 147px;
+  left: calc(50.00% - 240px);
+  top: 11px;
+  transform: rotate(179.86deg);
+  width: 480px;
+}
+
+.index .estrelas-p-3xIc2M {
+  height: 141px;
+  left: calc(50.00% - 240px);
+  top: 19px;
+  transform: rotate(179.86deg);
+  width: 437px;
+}
+
+.index .rectangle-2-ds10Zn {
+  height: 302px;
+  left: calc(50.00% - 153px);
+  top: 27px;
+  width: 302px;
+}
+
+.index .x-lg-ds10Zn {
+  left: calc(50.00% + 210px);
+}
+
+.index .neptune-ds10Zn {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 188px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4.651465892791748px 4.651465892791748px #00000040;
+  top: 5px;
+  transform: rotate(0.07deg);
+  width: 114px;
+}
+
+.index .uranus-ds10Zn {
+  height: 59px;
+  left: calc(50.00% - 240px);
+  top: 5px;
+  width: 59px;
+}
+
+.index .group-37-ds10Zn {
+  background-color: transparent;
+  height: 27px;
+  left: calc(50.00% - 237px);
+  position: absolute;
+  top: 331px;
+  width: 115px;
+}
+
+.index .group-38-ds10Zn {
+  background-color: transparent;
+  height: 27px;
+  left: calc(50.00% - 119px);
+  position: absolute;
+  top: 331px;
+  width: 115px;
+}
+
+.index .group-40-ds10Zn {
+  background-color: transparent;
+  height: 27px;
+  left: calc(50.00% + 116px);
+  position: absolute;
+  top: 331px;
+  width: 115px;
+}
+
+.index .group-39-ds10Zn {
+  background-color: transparent;
+  height: 27px;
+  left: calc(50.00% - 1px);
+  position: absolute;
+  top: 331px;
+  width: 115px;
+}
+
+.index .neptune-1-ds10Zn {
+  background-color: transparent;
+  height: 295px;
+  left: calc(50.00% - 150px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 31px;
+  width: 296px;
+}
+
+.index .modal-sun-IO3Fu5 {
+  background-color: transparent;
+  height: 357px;
+  left: calc(50.00% - 489px);
+  overflow: hidden;
+  position: absolute;
+  top: 23px;
+  width: 485px;
+}
+
+.index .rectangle-1-yPh66F {
+  left: calc(50.00% - 241px);
+  top: 0px;
+}
+
+.index .rectangle-7-yPh66F {
+  background-color: var(--jaguar);
+  border: 1.162866473197937px solid;
+  border-color: var(--white);
+  border-radius: 11.77px;
+  height: 356px;
+  left: calc(50.00% - 241px);
+  top: 0px;
+  width: 483px;
+}
+
+.index .ge-2-yPh66F {
+  height: 162px;
+  left: calc(50.00% - 242px);
+  top: 186px;
+  transform: rotate(0.31deg);
+  width: 488px;
+}
+
+.index .estrelas-m-GCMgyn {
+  height: 151px;
+  left: calc(50.00% - 190px);
+  top: -1px;
+  transform: rotate(-0.31deg);
+  width: 428px;
+}
+
+.index .estrelas-g-GCMgyn {
+  height: 151px;
+  left: calc(50.00% - 244px);
+  top: 10px;
+  transform: rotate(-0.31deg);
+  width: 484px;
+}
+
+.index .estrelas-p-GCMgyn {
+  height: 145px;
+  left: calc(50.00% - 244px);
+  top: 19px;
+  transform: rotate(-0.31deg);
+  width: 444px;
+}
+
+.index .ge-3-yPh66F {
+  height: 160px;
+  left: calc(50.00% - 234px);
+  top: 26px;
+  transform: rotate(-179.86deg);
+  width: 480px;
+}
+
+.index .estrelas-m-qOToAo {
+  height: 147px;
+  left: calc(50.00% - 187px);
+  top: -1px;
+  transform: rotate(179.86deg);
+  width: 421px;
+}
+
+.index .estrelas-g-qOToAo {
+  height: 147px;
+  left: calc(50.00% - 237px);
+  top: 11px;
+  transform: rotate(179.86deg);
+  width: 477px;
+}
+
+.index .estrelas-p-qOToAo {
+  height: 141px;
+  left: calc(50.00% - 237px);
+  top: 19px;
+  transform: rotate(179.86deg);
+  width: 433px;
+}
+
+.index .rectangle-2-yPh66F {
+  height: 302px;
+  left: calc(50.00% - 145px);
+  top: 25px;
+  width: 302px;
+}
+
+.index .sun-1-yPh66F {
+  background-color: transparent;
+  height: 296px;
+  left: calc(50.00% - 143px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 28px;
+  width: 296px;
+}
+
+.index .x-lg-yPh66F {
+  left: calc(50.00% + 213px);
+}
+
+.index .sun-yPh66F {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 186px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4.651465892791748px 4.651465892791748px #00000040;
+  top: 6px;
+  transform: rotate(0.07deg);
+  width: 58px;
+}
+
+.index .badge-yPh66F {
+  left: calc(50.00% - 116px);
+}
+
+.index .sol-yPh66F {
+  height: 65px;
+  left: calc(50.00% - 242px);
+  top: 0px;
+  width: 73px;
+}
+
+.index .badge-2GYxvE {
+  left: calc(50.00% - 234px);
+}
+
+.index .group-11-yPh66F {
+  background-color: transparent;
+  height: 27px;
+  left: calc(50.00% + 2px);
+  position: absolute;
+  top: 331px;
+  width: 115px;
+}
+
+.index .group-12-yPh66F {
+  background-color: transparent;
+  height: 27px;
+  left: calc(50.00% + 119px);
+  position: absolute;
+  top: 331px;
+  width: 115px;
+}
+
+.index .modal-uranus-IO3Fu5 {
+  background-color: transparent;
+  height: 357px;
+  left: calc(50.00% - 485px);
+  overflow: hidden;
+  position: absolute;
+  top: 1473px;
+  width: 493px;
+}
+
+.index .rectangle-7-aRENka {
+  background-color: var(--jaguar);
+  border: 1.162866473197937px solid;
+  border-color: var(--white);
+  border-radius: 11.77px;
+  height: 357px;
+  left: calc(50.00% - 245px);
+  top: 0px;
+  width: 484px;
+}
+
+.index .ge-2-aRENka {
+  height: 162px;
+  left: calc(50.00% - 246px);
+  top: 186px;
+  transform: rotate(0.31deg);
+  width: 488px;
+}
+
+.index .estrelas-m-xPZuqe {
+  height: 151px;
+  left: calc(50.00% - 190px);
+  top: -1px;
+  transform: rotate(-0.31deg);
+  width: 428px;
+}
+
+.index .estrelas-g-xPZuqe {
+  height: 151px;
+  left: calc(50.00% - 244px);
+  top: 10px;
+  transform: rotate(-0.31deg);
+  width: 488px;
+}
+
+.index .estrelas-p-xPZuqe {
+  height: 145px;
+  left: calc(50.00% - 244px);
+  top: 19px;
+  transform: rotate(-0.31deg);
+  width: 444px;
+}
+
+.index .ge-3-aRENka {
+  height: 160px;
+  left: calc(50.00% - 238px);
+  top: 26px;
+  transform: rotate(-179.86deg);
+  width: 480px;
+}
+
+.index .estrelas-m-tarKzk {
+  height: 147px;
+  left: calc(50.00% - 187px);
+  top: -1px;
+  transform: rotate(179.86deg);
+  width: 421px;
+}
+
+.index .estrelas-g-tarKzk {
+  height: 147px;
+  left: calc(50.00% - 240px);
+  top: 11px;
+  transform: rotate(179.86deg);
+  width: 480px;
+}
+
+.index .estrelas-p-tarKzk {
+  height: 141px;
+  left: calc(50.00% - 240px);
+  top: 19px;
+  transform: rotate(179.86deg);
+  width: 437px;
+}
+
+.index .rectangle-2-aRENka {
+  height: 302px;
+  left: calc(50.00% - 155px);
+  top: 22px;
+  width: 302px;
+}
+
+.index .x-lg-aRENka {
+  left: calc(50.00% + 209px);
+}
+
+.index .uranus-aRENka {
+  height: auto;
+  left: calc(50.00% - 195px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  text-align: center;
+  text-shadow: 0px 4.651465892791748px 4.651465892791748px #00000040;
+  top: 4px;
+  transform: rotate(0.07deg);
+  width: 114px;
+}
+
+.index .nepturne-aRENka {
+  height: 52px;
+  left: calc(50.00% - 241px);
+  top: 4px;
+  width: 52px;
+}
+
+.index .group-30-aRENka {
+  background-color: transparent;
+  height: 27px;
+  left: calc(50.00% - 238px);
+  position: absolute;
+  top: 331px;
+  width: 115px;
+}
+
+.index .group-32-aRENka {
+  background-color: transparent;
+  height: 27px;
+  left: calc(50.00% - 120px);
+  position: absolute;
+  top: 331px;
+  width: 115px;
+}
+
+.index .group-35-aRENka {
+  background-color: transparent;
+  height: 27px;
+  left: calc(50.00% + 115px);
+  position: absolute;
+  top: 331px;
+  width: 115px;
+}
+
+.index .group-34-aRENka {
+  background-color: transparent;
+  height: 27px;
+  left: calc(50.00% - 2px);
+  position: absolute;
+  top: 331px;
+  width: 115px;
+}
+
+.index .uranus-1-aRENka {
+  background-color: transparent;
+  height: 296px;
+  left: calc(50.00% - 152px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 26px;
+  width: 296px;
+}
+
+.index .modal-saturn-IO3Fu5 {
+  background-color: transparent;
+  height: 357px;
+  left: calc(50.00% + 39px);
+  overflow: hidden;
+  position: absolute;
+  top: 1112px;
+  width: 491px;
+}
+
+.index .rectangle-1-ILGSg3 {
+  left: calc(50.00% - 244px);
+  top: 1px;
+}
+
+.index .rectangle-7-ILGSg3 {
+  background-color: var(--jaguar);
+  border: 1.162866473197937px solid;
+  border-color: var(--white);
+  border-radius: 11.77px;
+  height: 357px;
+  left: calc(50.00% - 244px);
+  top: 1px;
+  width: 484px;
+}
+
+.index .ge-2-ILGSg3 {
+  height: 162px;
+  left: calc(50.00% - 245px);
+  top: 186px;
+  transform: rotate(0.31deg);
+  width: 488px;
+}
+
+.index .estrelas-m-exY6eT {
+  height: 151px;
+  left: calc(50.00% - 190px);
+  top: -1px;
+  transform: rotate(-0.31deg);
+  width: 428px;
+}
+
+.index .estrelas-g-exY6eT {
+  height: 151px;
+  left: calc(50.00% - 244px);
+  top: 10px;
+  transform: rotate(-0.31deg);
+  width: 488px;
+}
+
+.index .estrelas-p-exY6eT {
+  height: 145px;
+  left: calc(50.00% - 244px);
+  top: 19px;
+  transform: rotate(-0.31deg);
+  width: 444px;
+}
+
+.index .ge-3-ILGSg3 {
+  height: 160px;
+  left: calc(50.00% - 237px);
+  top: 26px;
+  transform: rotate(-179.86deg);
+  width: 480px;
+}
+
+.index .estrelas-m-xzVHp4 {
+  height: 147px;
+  left: calc(50.00% - 187px);
+  top: -1px;
+  transform: rotate(179.86deg);
+  width: 421px;
+}
+
+.index .estrelas-g-xzVHp4 {
+  height: 147px;
+  left: calc(50.00% - 240px);
+  top: 11px;
+  transform: rotate(179.86deg);
+  width: 480px;
+}
+
+.index .estrelas-p-xzVHp4 {
+  height: 141px;
+  left: calc(50.00% - 240px);
+  top: 19px;
+  transform: rotate(179.86deg);
+  width: 437px;
+}
+
+.index .rectangle-2-ILGSg3 {
+  height: 302px;
+  left: calc(50.00% - 159px);
+  top: 27px;
+  width: 302px;
+}
+
+.index .x-lg-ILGSg3 {
+  left: calc(50.00% + 210px);
+}
+
+.index .saturn-ILGSg3 {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 194px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4.651465892791748px 4.651465892791748px #00000040;
+  top: 6px;
+  transform: rotate(0.07deg);
+  width: 114px;
+}
+
+.index .group-29-ILGSg3 {
+  background-color: transparent;
+  height: 27px;
+  left: calc(50.00% - 237px);
+  position: absolute;
+  top: 331px;
+  width: 115px;
+}
+
+.index .saturno-ILGSg3 {
+  height: 54px;
+  left: calc(50.00% - 245px);
+  top: 5px;
+  width: 80px;
+}
+
+.index .group-31-ILGSg3 {
+  background-color: transparent;
+  height: 27px;
+  left: calc(50.00% - 119px);
+  position: absolute;
+  top: 331px;
+  width: 115px;
+}
+
+.index .group-36-ILGSg3 {
+  background-color: transparent;
+  height: 27px;
+  left: calc(50.00% + 116px);
+  position: absolute;
+  top: 331px;
+  width: 115px;
+}
+
+.index .group-33-ILGSg3 {
+  background-color: transparent;
+  height: 27px;
+  left: calc(50.00% - 1px);
+  position: absolute;
+  top: 331px;
+  width: 115px;
+}
+
+.index .saturncortado-ativo-1-1-ILGSg3 {
+  background-color: transparent;
+  height: 265px;
+  left: calc(50.00% - 156px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 42px;
+  width: 296px;
+}
+
+.index .modal-jupiter-IO3Fu5 {
+  background-color: transparent;
+  height: 357px;
+  left: calc(50.00% - 481px);
+  overflow: hidden;
+  position: absolute;
+  top: 1112px;
+  width: 489px;
+}
+
+.index .rectangle-1-xVvoG9 {
+  left: calc(50.00% - 243px);
+  top: 1px;
+}
+
+.index .rectangle-7-xVvoG9 {
+  background-color: var(--jaguar);
+  border: 1.162866473197937px solid;
+  border-color: var(--white);
+  border-radius: 11.77px;
+  height: 357px;
+  left: calc(50.00% - 243px);
+  top: 1px;
+  width: 484px;
+}
+
+.index .ge-2-xVvoG9 {
+  height: 162px;
+  left: calc(50.00% - 244px);
+  top: 186px;
+  transform: rotate(0.31deg);
+  width: 488px;
+}
+
+.index .estrelas-m-axi0TI {
+  height: 151px;
+  left: calc(50.00% - 190px);
+  top: -1px;
+  transform: rotate(-0.31deg);
+  width: 428px;
+}
+
+.index .estrelas-g-axi0TI {
+  height: 151px;
+  left: calc(50.00% - 244px);
+  top: 10px;
+  transform: rotate(-0.31deg);
+  width: 488px;
+}
+
+.index .estrelas-p-axi0TI {
+  height: 145px;
+  left: calc(50.00% - 244px);
+  top: 19px;
+  transform: rotate(-0.31deg);
+  width: 444px;
+}
+
+.index .ge-3-xVvoG9 {
+  height: 160px;
+  left: calc(50.00% - 236px);
+  top: 26px;
+  transform: rotate(-179.86deg);
+  width: 480px;
+}
+
+.index .estrelas-m-vAVSZn {
+  height: 147px;
+  left: calc(50.00% - 187px);
+  top: -1px;
+  transform: rotate(179.86deg);
+  width: 421px;
+}
+
+.index .estrelas-g-vAVSZn {
+  height: 147px;
+  left: calc(50.00% - 240px);
+  top: 11px;
+  transform: rotate(179.86deg);
+  width: 480px;
+}
+
+.index .estrelas-p-vAVSZn {
+  height: 141px;
+  left: calc(50.00% - 240px);
+  top: 19px;
+  transform: rotate(179.86deg);
+  width: 437px;
+}
+
+.index .rectangle-2-xVvoG9 {
+  height: 302px;
+  left: calc(50.00% - 153px);
+  top: 27px;
+  width: 302px;
+}
+
+.index .x-lg-xVvoG9 {
+  left: calc(50.00% + 211px);
+}
+
+.index .jupiter-xVvoG9 {
+  height: auto;
+  left: calc(50.00% - 193px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  text-align: center;
+  text-shadow: 0px 4.651465892791748px 4.651465892791748px #00000040;
+  top: 6px;
+  transform: rotate(0.07deg);
+  width: 114px;
+}
+
+.index .rectangle-6-xVvoG9 {
+  background-color: transparent;
+  height: 27px;
+  left: calc(50.00% + 117px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 331px;
+  width: 115px;
+}
+
+.index .x2479-ms-xVvoG9 {
+  background-color: transparent;
+  height: 13px;
+  left: calc(50.00% + 144px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 335px;
+  width: 73px;
+}
+
+.index .jupiter-whaPbK {
+  height: 57px;
+  left: calc(50.00% - 240px);
+  top: 4px;
+  width: 57px;
+}
+
+.index .group-24-xVvoG9 {
+  background-color: transparent;
+  height: 27px;
+  left: calc(50.00% - 236px);
+  position: absolute;
+  top: 331px;
+  width: 115px;
+}
+
+.index .group-26-xVvoG9 {
+  background-color: transparent;
+  height: 27px;
+  left: calc(50.00% - 118px);
+  position: absolute;
+  top: 331px;
+  width: 115px;
+}
+
+.index .group-9-xVvoG9 {
+  background-color: transparent;
+  height: 19px;
+  left: calc(50.00% + 123px);
+  position: absolute;
+  top: 332px;
+  width: 18px;
+}
+
+.index .group-28-xVvoG9 {
+  background-color: transparent;
+  height: 27px;
+  left: 50.00%;
+  position: absolute;
+  top: 331px;
+  width: 115px;
+}
+
+.index .jupiter-1-xVvoG9 {
+  background-color: transparent;
+  height: 281px;
+  left: calc(50.00% - 150px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 35px;
+  width: 296px;
+}
+
+.index .modal-mars-IO3Fu5 {
+  background-color: transparent;
+  height: 357px;
+  left: calc(50.00% + 39px);
+  overflow: hidden;
+  position: absolute;
+  top: 745px;
+  width: 491px;
+}
+
+.index .rectangle-1-lPhp1O {
+  left: calc(50.00% - 244px);
+  top: 0px;
+}
+
+.index .rectangle-7-lPhp1O {
+  background-color: transparent;
+  height: 357px;
+  left: calc(50.00% - 244px);
+  top: 0px;
+  width: 484px;
+}
+
+.index .ge-2-lPhp1O {
+  height: 162px;
+  left: calc(50.00% - 245px);
+  top: 186px;
+  transform: rotate(0.31deg);
+  width: 488px;
+}
+
+.index .estrelas-m-BhnZFx {
+  height: 151px;
+  left: calc(50.00% - 190px);
+  top: -1px;
+  transform: rotate(-0.31deg);
+  width: 428px;
+}
+
+.index .estrelas-g-BhnZFx {
+  height: 151px;
+  left: calc(50.00% - 244px);
+  top: 10px;
+  transform: rotate(-0.31deg);
+  width: 488px;
+}
+
+.index .estrelas-p-BhnZFx {
+  height: 145px;
+  left: calc(50.00% - 244px);
+  top: 19px;
+  transform: rotate(-0.31deg);
+  width: 444px;
+}
+
+.index .ge-3-lPhp1O {
+  height: 160px;
+  left: calc(50.00% - 237px);
+  top: 26px;
+  transform: rotate(-179.86deg);
+  width: 480px;
+}
+
+.index .estrelas-m-9p1jef {
+  height: 147px;
+  left: calc(50.00% - 187px);
+  top: -1px;
+  transform: rotate(179.86deg);
+  width: 421px;
+}
+
+.index .estrelas-g-9p1jef {
+  height: 147px;
+  left: calc(50.00% - 240px);
+  top: 11px;
+  transform: rotate(179.86deg);
+  width: 480px;
+}
+
+.index .estrelas-p-9p1jef {
+  height: 141px;
+  left: calc(50.00% - 240px);
+  top: 19px;
+  transform: rotate(179.86deg);
+  width: 437px;
+}
+
+.index .rectangle-2-lPhp1O {
+  height: 302px;
+  left: calc(50.00% - 154px);
+  top: 27px;
+  width: 302px;
+}
+
+.index .x-lg-lPhp1O {
+  left: calc(50.00% + 210px);
+}
+
+.index .mars-lPhp1O {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 206px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4.651465892791748px 4.651465892791748px #00000040;
+  top: 6px;
+  transform: rotate(0.07deg);
+  width: 83px;
+}
+
+.index .marte-lPhp1O {
+  height: 46px;
+  left: calc(50.00% - 240px);
+  top: 4px;
+  width: 46px;
+}
+
+.index .group-22-lPhp1O {
+  left: calc(50.00% - 237px);
+}
+
+.index .group-23-lPhp1O {
+  background-color: transparent;
+  height: 27px;
+  left: calc(50.00% - 119px);
+  position: absolute;
+  top: 331px;
+  width: 115px;
+}
+
+.index .group-27-lPhp1O {
+  background-color: transparent;
+  height: 27px;
+  left: calc(50.00% + 116px);
+  position: absolute;
+  top: 331px;
+  width: 115px;
+}
+
+.index .group-25-lPhp1O {
+  background-color: transparent;
+  height: 27px;
+  left: calc(50.00% - 1px);
+  position: absolute;
+  top: 331px;
+  width: 115px;
+}
+
+.index .mars-1-lPhp1O {
+  background-color: transparent;
+  height: 296px;
+  left: calc(50.00% - 151px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 31px;
+  width: 296px;
+}
+
+.index .logo-nasa-IO3Fu5 {
+  background-color: transparent;
+  height: 90px;
+  left: calc(50.00% + 373px);
+  position: fixed;
+  top: 13px;
+  width: 174px;
+}
+
+.index .see-the-astronomy-picture-of-the-day-hDxxHb {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: calc(50.00% - 87px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 41px;
+  transform: rotate(0.07deg);
+  width: 172px;
+}
+
+.index .logo-nasa-hDxxHb {
+  background-color: transparent;
+  height: 39px;
+  left: calc(50.00% - 69px);
+  position: absolute;
+  top: 1px;
+  width: 141px;
+}
+
+.index .badge {
+  background-color: transparent;
+  height: 27px;
+  position: absolute;
+  top: 331px;
+  width: 115px;
+}
+
+.index .ge-2 {
+  background-color: transparent;
+  overflow: hidden;
+  position: absolute;
+}
+
+.index .ge-3 {
+  background-color: transparent;
+  overflow: hidden;
+  position: absolute;
+}
+
+.index .group-13 {
+  background-color: transparent;
+  height: 27px;
+  position: absolute;
+  top: 331px;
+  width: 115px;
+}
+
+.index .group-22 {
+  background-color: transparent;
+  height: 27px;
+  position: absolute;
+  top: 331px;
+  width: 115px;
+}
+
+.index .line-3 {
+  background-color: transparent;
+  height: 16px;
+  left: calc(50.00% - 7px);
+  position: absolute;
+  top: 3px;
+  width: 12px;
+}
+
+.index .line-4 {
+  background-color: transparent;
+  height: 16px;
+  left: calc(50.00% - 7px);
+  position: absolute;
+  top: 4px;
+  width: 12px;
+}
+
+.index .rectangle-1 {
+  background-color: var(--jaguar);
+  border: 1.162866473197937px solid;
+  border-color: var(--white);
+  border-radius: 11.77px;
+  height: 357px;
+  mix-blend-mode: normal;
+  position: absolute;
+  width: 484px;
+}
+
+.index .rectangle-7 {
+  mix-blend-mode: normal;
+  position: absolute;
+}
+
+.index .x-lg {
+  background-color: transparent;
+  height: 23px;
+  overflow: hidden;
+  position: absolute;
+  top: 3px;
+  width: 18px;
+}
+/* screen - nasa-mobile */
+
+.nasa-mobile {
+  background: linear-gradient(180deg, rgb(0.8372093725483865, 15.069769062101841, 30.139538124203682) 1.5625%, rgb(64.81249898672104, 0.27005207317415625, 0.27005207317415625) 23.4375%, rgb(1.0000000591389835, 18.000000827014446, 36.00000165402889) 51.04166865348816%, rgb(0, 0, 0) 95.83333134651184%);
+  background-color: rgba(255,255,255,1.0);
+  border: 1px none;
+  margin: 0px;
+  min-height: 880px;
+  min-width: 320px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+.nasa-mobile .celestial-captures-WtCkfn {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-lexend_zetta);
+  font-size: 21.8px;
+  font-style: normal;
+  font-weight: 800;
+  height: auto;
+  left: calc(50.00% - 92px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 34px;
+  transform: rotate(0.07deg);
+  width: 199px;
+}
+
+.nasa-mobile .x2023-fernando-fbio-y-WtCkfn {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-roboto_slab);
+  font-size: var(--font-size-xxxxxs);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: calc(50.00% - 119px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 871px;
+  width: 238px;
+}
+
+.nasa-mobile .follow-the-interacti-WtCkfn {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: calc(50.00% - 76px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 90px;
+  transform: rotate(0.07deg);
+  width: 162px;
+}
+
+.nasa-mobile .lua-WtCkfn {
+  background-color: transparent;
+  height: 10px;
+  left: calc(50.00% - 6px);
+  position: absolute;
+  top: 452px;
+  width: 10px;
+}
+
+.nasa-mobile .sol-WtCkfn {
+  height: 173px;
+  left: calc(50.00% - 81px);
+  top: 161px;
+  width: 197px;
+}
+
+.nasa-mobile .mercurio-WtCkfn {
+  height: 23px;
+  left: calc(50.00% + 36px);
+  top: 340px;
+  width: 23px;
+}
+
+.nasa-mobile .venus-WtCkfn {
+  height: 28px;
+  left: calc(50.00% - 17px);
+  top: 405px;
+  width: 28px;
+}
+
+.nasa-mobile .terra-WtCkfn {
+  height: 35px;
+  left: 50.00%;
+  top: 458px;
+  width: 35px;
+}
+
+.nasa-mobile .marte-WtCkfn {
+  height: 26px;
+  left: calc(50.00% - 72px);
+  top: 491px;
+  width: 26px;
+}
+
+.nasa-mobile .jupiter-WtCkfn {
+  height: 81px;
+  left: calc(50.00% - 44px);
+  top: 550px;
+  width: 81px;
+}
+
+.nasa-mobile .saturno-WtCkfn {
+  height: 59px;
+  left: calc(50.00% - 12px);
+  top: 640px;
+  width: 111px;
+}
+
+.nasa-mobile .uranus-WtCkfn {
+  height: 44px;
+  left: calc(50.00% - 21px);
+  top: 754px;
+  width: 44px;
+}
+
+.nasa-mobile .nepturne-WtCkfn {
+  height: 43px;
+  left: calc(50.00% - 80px);
+  top: 676px;
+  width: 43px;
+}
+
+.nasa-mobile .linhas8-WtCkfn {
+  background-color: transparent;
+  height: 51px;
+  left: calc(50.00% + 63px);
+  position: absolute;
+  top: 301px;
+  width: 34px;
+}
+
+.nasa-mobile .linhas7-WtCkfn {
+  background-color: transparent;
+  height: 45px;
+  left: calc(50.00% - 10px);
+  position: absolute;
+  top: 357px;
+  width: 39px;
+}
+
+.nasa-mobile .linhas6-WtCkfn {
+  background-color: transparent;
+  height: 51px;
+  left: calc(50.00% + 15px);
+  position: absolute;
+  top: 420px;
+  width: 34px;
+}
+
+.nasa-mobile .linhas5-WtCkfn {
+  background-color: transparent;
+  height: 48px;
+  left: calc(50.00% - 66px);
+  position: absolute;
+  top: 727px;
+  width: 38px;
+}
+
+.nasa-mobile .linhas4-WtCkfn {
+  background-color: transparent;
+  height: 53px;
+  left: calc(50.00% + 46px);
+  position: absolute;
+  top: 587px;
+  width: 31px;
+}
+
+.nasa-mobile .linhas3-WtCkfn {
+  background-color: transparent;
+  height: 27px;
+  left: calc(50.00% - 44px);
+  position: absolute;
+  top: 648px;
+  width: 55px;
+}
+
+.nasa-mobile .linhas2-WtCkfn {
+  background-color: transparent;
+  height: 71px;
+  left: calc(50.00% - 89px);
+  position: absolute;
+  top: 515px;
+  width: 38px;
+}
+
+.nasa-mobile .linhas1-WtCkfn {
+  background-color: transparent;
+  height: 32px;
+  left: calc(50.00% - 47px);
+  position: absolute;
+  top: 498px;
+  width: 52px;
+}
+
+.nasa-mobile .ge-6-WtCkfn {
+  left: -82.99%;
+  top: 583px;
+}
+
+.nasa-mobile .estrelas-m-JNQllf {
+  height: 289px;
+  left: 33.24%;
+  top: -12px;
+  transform: rotate(1.93deg);
+  width: 40.02%;
+}
+
+.nasa-mobile .estrelas-g-JNQllf {
+  height: 288px;
+  left: 33.20%;
+  top: -3px;
+  transform: rotate(1.93deg);
+  width: 40.02%;
+}
+
+.nasa-mobile .estrelas-p-JNQllf {
+  height: 240px;
+  left: 33.07%;
+  top: 51px;
+  transform: rotate(1.93deg);
+  width: 40.02%;
+}
+
+.nasa-mobile .ge-7-WtCkfn {
+  background-color: transparent;
+  height: 277px;
+  left: -101.74%;
+  overflow: hidden;
+  position: absolute;
+  top: 329px;
+  transform: rotate(-1.93deg);
+  width: 249.90%;
+}
+
+.nasa-mobile .estrelas-m-llKQ2N {
+  height: 289px;
+  left: 40.74%;
+  top: -10px;
+  transform: rotate(1.93deg);
+  width: 40.02%;
+}
+
+.nasa-mobile .estrelas-g-llKQ2N {
+  height: 288px;
+  left: 40.70%;
+  top: -1px;
+  transform: rotate(1.93deg);
+  width: 40.02%;
+}
+
+.nasa-mobile .estrelas-p-llKQ2N {
+  height: 240px;
+  left: 40.57%;
+  top: 53px;
+  transform: rotate(1.93deg);
+  width: 40.02%;
+}
+
+.nasa-mobile .ge-6-XyyGC1 {
+  left: -105.18%;
+  top: 116px;
+}
+
+.nasa-mobile .estrelas-m-XW06wp {
+  height: 289px;
+  left: 42.11%;
+  top: -10px;
+  transform: rotate(1.93deg);
+  width: 40.02%;
+}
+
+.nasa-mobile .estrelas-g-XW06wp {
+  height: 288px;
+  left: 42.07%;
+  top: 0px;
+  transform: rotate(1.93deg);
+  width: 40.02%;
+}
+
+.nasa-mobile .estrelas-p-XW06wp {
+  height: 240px;
+  left: 41.95%;
+  top: 53px;
+  transform: rotate(1.93deg);
+  width: 40.02%;
+}
+
+.nasa-mobile .modal-apod-WtCkfn {
+  background-color: transparent;
+  height: 171px;
+  left: calc(50.00% - 112px);
+  overflow: hidden;
+  position: absolute;
+  top: 7px;
+  width: 233px;
+}
+
+.nasa-mobile .rectangle-1-lZ48hA {
+  top: 0px;
+}
+
+.nasa-mobile .rectangle-7-lZ48hA {
+  background-color: var(--jaguar);
+  border: 0.5576881170272827px solid;
+  border-color: var(--white);
+  border-radius: 5.64px;
+  top: 0px;
+}
+
+.nasa-mobile .estrelas-m-SiAZCL {
+  height: 148px;
+  left: calc(50.00% + 476px);
+  top: 1119px;
+  transform: rotate(-0.31deg);
+  width: 427px;
+}
+
+.nasa-mobile .estrelas-g-SiAZCL {
+  height: 148px;
+  left: calc(50.00% + 422px);
+  top: 1131px;
+  transform: rotate(-0.31deg);
+  width: 487px;
+}
+
+.nasa-mobile .estrelas-p-SiAZCL {
+  height: 142px;
+  left: calc(50.00% + 422px);
+  top: 1139px;
+  transform: rotate(-0.31deg);
+  width: 443px;
+}
+
+.nasa-mobile .estrelas-m-6pQz7l {
+  height: 132px;
+  left: calc(50.00% + 16px);
+  top: 14px;
+  transform: rotate(179.86deg);
+  width: 218px;
+}
+
+.nasa-mobile .estrelas-g-6pQz7l {
+  height: 143px;
+  left: calc(50.00% + 16px);
+  top: 14px;
+  transform: rotate(179.86deg);
+  width: 225px;
+}
+
+.nasa-mobile .estrelas-p-6pQz7l {
+  height: 141px;
+  left: calc(50.00% + 16px);
+  top: 19px;
+  transform: rotate(179.86deg);
+  width: 181px;
+}
+
+.nasa-mobile .rectangle-2-lZ48hA {
+  height: 155px;
+  left: calc(50.00% - 112px);
+  top: 12px;
+  width: 224px;
+}
+
+.nasa-mobile .astronomy-photo-of-the-day-lZ48hA {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 117px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 2.230752468109131px 2.230752468109131px #00000040;
+  top: 3px;
+  transform: rotate(0.07deg);
+  width: 189px;
+}
+
+.nasa-mobile .modal-venus-WtCkfn {
+  background-color: transparent;
+  height: 171px;
+  left: calc(50.00% - 112px);
+  overflow: hidden;
+  position: absolute;
+  top: 183px;
+  width: 233px;
+}
+
+.nasa-mobile .rectangle-1-UKxkFF {
+  top: 0px;
+}
+
+.nasa-mobile .rectangle-7-UKxkFF {
+  background-color: var(--jaguar);
+  border: 0.5576881170272827px solid;
+  border-color: var(--white);
+  border-radius: 5.64px;
+  top: 0px;
+}
+
+.nasa-mobile .estrelas-m-BXBlGp {
+  height: 148px;
+  left: calc(50.00% + 475px);
+  top: 944px;
+  transform: rotate(-0.31deg);
+  width: 427px;
+}
+
+.nasa-mobile .estrelas-g-BXBlGp {
+  height: 148px;
+  left: calc(50.00% + 421px);
+  top: 955px;
+  transform: rotate(-0.31deg);
+  width: 487px;
+}
+
+.nasa-mobile .estrelas-p-BXBlGp {
+  height: 142px;
+  left: calc(50.00% + 421px);
+  top: 964px;
+  transform: rotate(-0.31deg);
+  width: 443px;
+}
+
+.nasa-mobile .estrelas-m-TxM2t8 {
+  height: 132px;
+  left: calc(50.00% + 16px);
+  top: 14px;
+  transform: rotate(179.86deg);
+  width: 218px;
+}
+
+.nasa-mobile .estrelas-g-TxM2t8 {
+  height: 143px;
+  left: calc(50.00% + 16px);
+  top: 14px;
+  transform: rotate(179.86deg);
+  width: 225px;
+}
+
+.nasa-mobile .estrelas-p-TxM2t8 {
+  height: 141px;
+  left: calc(50.00% + 16px);
+  top: 19px;
+  transform: rotate(179.86deg);
+  width: 181px;
+}
+
+.nasa-mobile .rectangle-2-UKxkFF {
+  height: 145px;
+  left: calc(50.00% - 75px);
+  top: 11px;
+  width: 145px;
+}
+
+.nasa-mobile .venus-UKxkFF {
+  height: auto;
+  left: calc(50.00% - 95px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  text-align: center;
+  text-shadow: 0px 2.230752468109131px 2.230752468109131px #00000040;
+  top: 2px;
+  transform: rotate(0.07deg);
+  width: 40px;
+}
+
+.nasa-mobile .venus-kmNrlx {
+  height: 19px;
+  left: calc(50.00% - 113px);
+  top: 3px;
+  width: 19px;
+}
+
+.nasa-mobile .group-13-UKxkFF {
+  left: calc(50.00% - 112px);
+}
+
+.nasa-mobile .group-14-UKxkFF {
+  background-color: transparent;
+  height: 13px;
+  left: calc(50.00% - 56px);
+  position: absolute;
+  top: 159px;
+  width: 55px;
+}
+
+.nasa-mobile .group-17-UKxkFF {
+  background-color: transparent;
+  height: 13px;
+  left: calc(50.00% + 57px);
+  position: absolute;
+  top: 159px;
+  width: 55px;
+}
+
+.nasa-mobile .group-15-UKxkFF {
+  background-color: transparent;
+  height: 13px;
+  left: calc(50.00% + 1px);
+  position: absolute;
+  top: 159px;
+  width: 55px;
+}
+
+.nasa-mobile .venus-1-UKxkFF {
+  background-color: transparent;
+  height: 142px;
+  left: calc(50.00% - 74px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 142px;
+}
+
+.nasa-mobile .modal-neptune-WtCkfn {
+  background-color: transparent;
+  height: 171px;
+  left: calc(50.00% - 110px);
+  overflow: hidden;
+  position: absolute;
+  top: 705px;
+  width: 233px;
+}
+
+.nasa-mobile .rectangle-1-tagQPi {
+  top: 0px;
+}
+
+.nasa-mobile .rectangle-7-tagQPi {
+  background-color: var(--jaguar);
+  border: 0.5576881170272827px solid;
+  border-color: var(--white);
+  border-radius: 5.64px;
+  top: 0px;
+}
+
+.nasa-mobile .estrelas-m-1qajiY {
+  height: 148px;
+  left: calc(50.00% + 470px);
+  top: 422px;
+  transform: rotate(-0.31deg);
+  width: 427px;
+}
+
+.nasa-mobile .estrelas-g-1qajiY {
+  height: 148px;
+  left: calc(50.00% + 417px);
+  top: 433px;
+  transform: rotate(-0.31deg);
+  width: 487px;
+}
+
+.nasa-mobile .estrelas-p-1qajiY {
+  height: 142px;
+  left: calc(50.00% + 416px);
+  top: 442px;
+  transform: rotate(-0.31deg);
+  width: 443px;
+}
+
+.nasa-mobile .estrelas-m-xS9ZpC {
+  height: 132px;
+  left: calc(50.00% + 16px);
+  top: 14px;
+  transform: rotate(179.86deg);
+  width: 218px;
+}
+
+.nasa-mobile .estrelas-g-xS9ZpC {
+  height: 143px;
+  left: calc(50.00% + 16px);
+  top: 14px;
+  transform: rotate(179.86deg);
+  width: 225px;
+}
+
+.nasa-mobile .estrelas-p-xS9ZpC {
+  height: 141px;
+  left: calc(50.00% + 16px);
+  top: 19px;
+  transform: rotate(179.86deg);
+  width: 181px;
+}
+
+.nasa-mobile .rectangle-2-tagQPi {
+  height: 145px;
+  left: calc(50.00% - 72px);
+  top: 13px;
+  width: 145px;
+}
+
+.nasa-mobile .neptune-tagQPi {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 89px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 2.230752468109131px 2.230752468109131px #00000040;
+  top: 2px;
+  transform: rotate(0.07deg);
+  width: 55px;
+}
+
+.nasa-mobile .uranus-tagQPi {
+  height: 28px;
+  left: calc(50.00% - 114px);
+  top: 2px;
+  width: 28px;
+}
+
+.nasa-mobile .group-37-tagQPi {
+  background-color: transparent;
+  height: 13px;
+  left: calc(50.00% - 112px);
+  position: absolute;
+  top: 159px;
+  width: 55px;
+}
+
+.nasa-mobile .group-38-tagQPi {
+  background-color: transparent;
+  height: 13px;
+  left: calc(50.00% - 56px);
+  position: absolute;
+  top: 159px;
+  width: 55px;
+}
+
+.nasa-mobile .group-40-tagQPi {
+  background-color: transparent;
+  height: 13px;
+  left: calc(50.00% + 57px);
+  position: absolute;
+  top: 159px;
+  width: 55px;
+}
+
+.nasa-mobile .group-39-tagQPi {
+  background-color: transparent;
+  height: 13px;
+  left: calc(50.00% + 1px);
+  position: absolute;
+  top: 159px;
+  width: 55px;
+}
+
+.nasa-mobile .neptune-1-tagQPi {
+  background-color: transparent;
+  height: 142px;
+  left: calc(50.00% - 71px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 142px;
+}
+
+.nasa-mobile .modal-saturn-WtCkfn {
+  background-color: transparent;
+  height: 171px;
+  left: calc(50.00% - 110px);
+  overflow: hidden;
+  position: absolute;
+  top: 531px;
+  width: 233px;
+}
+
+.nasa-mobile .rectangle-1-tQXSCR {
+  top: 1px;
+}
+
+.nasa-mobile .rectangle-7-tQXSCR {
+  background-color: var(--jaguar);
+  border: 0.5576881170272827px solid;
+  border-color: var(--white);
+  border-radius: 5.64px;
+  top: 1px;
+}
+
+.nasa-mobile .estrelas-m-wIi5Ll {
+  height: 148px;
+  left: calc(50.00% + 471px);
+  top: 595px;
+  transform: rotate(-0.31deg);
+  width: 427px;
+}
+
+.nasa-mobile .estrelas-g-wIi5Ll {
+  height: 148px;
+  left: calc(50.00% + 418px);
+  top: 607px;
+  transform: rotate(-0.31deg);
+  width: 487px;
+}
+
+.nasa-mobile .estrelas-p-wIi5Ll {
+  height: 142px;
+  left: calc(50.00% + 417px);
+  top: 615px;
+  transform: rotate(-0.31deg);
+  width: 443px;
+}
+
+.nasa-mobile .estrelas-m-xCXnFE {
+  height: 132px;
+  left: calc(50.00% + 16px);
+  top: 14px;
+  transform: rotate(179.86deg);
+  width: 218px;
+}
+
+.nasa-mobile .estrelas-g-xCXnFE {
+  height: 143px;
+  left: calc(50.00% + 16px);
+  top: 14px;
+  transform: rotate(179.86deg);
+  width: 225px;
+}
+
+.nasa-mobile .estrelas-p-xCXnFE {
+  height: 141px;
+  left: calc(50.00% + 16px);
+  top: 19px;
+  transform: rotate(179.86deg);
+  width: 181px;
+}
+
+.nasa-mobile .rectangle-2-tQXSCR {
+  height: 145px;
+  left: calc(50.00% - 75px);
+  top: 13px;
+  width: 145px;
+}
+
+.nasa-mobile .saturn-tQXSCR {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 92px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 2.230752468109131px 2.230752468109131px #00000040;
+  top: 3px;
+  transform: rotate(0.07deg);
+  width: 55px;
+}
+
+.nasa-mobile .group-29-tQXSCR {
+  background-color: transparent;
+  height: 13px;
+  left: calc(50.00% - 112px);
+  position: absolute;
+  top: 159px;
+  width: 55px;
+}
+
+.nasa-mobile .saturno-tQXSCR {
+  height: 26px;
+  left: calc(50.00% - 116px);
+  top: 2px;
+  width: 39px;
+}
+
+.nasa-mobile .group-31-tQXSCR {
+  background-color: transparent;
+  height: 13px;
+  left: calc(50.00% - 56px);
+  position: absolute;
+  top: 159px;
+  width: 55px;
+}
+
+.nasa-mobile .group-36-tQXSCR {
+  background-color: transparent;
+  height: 13px;
+  left: calc(50.00% + 57px);
+  position: absolute;
+  top: 159px;
+  width: 55px;
+}
+
+.nasa-mobile .group-33-tQXSCR {
+  background-color: transparent;
+  height: 13px;
+  left: calc(50.00% + 1px);
+  position: absolute;
+  top: 159px;
+  width: 55px;
+}
+
+.nasa-mobile .saturncortado-ativo-1-1-tQXSCR {
+  background-color: transparent;
+  height: 127px;
+  left: calc(50.00% - 74px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 142px;
+}
+
+.nasa-mobile .modal-mars-WtCkfn {
+  background-color: transparent;
+  height: 171px;
+  left: calc(50.00% - 110px);
+  overflow: hidden;
+  position: absolute;
+  top: 356px;
+  width: 233px;
+}
+
+.nasa-mobile .rectangle-1-VVY8MG {
+  top: 1px;
+}
+
+.nasa-mobile .rectangle-7-VVY8MG {
+  background-color: transparent;
+  top: 0px;
+}
+
+.nasa-mobile .estrelas-m-1xvM05 {
+  height: 148px;
+  left: calc(50.00% + 472px);
+  top: 771px;
+  transform: rotate(-0.31deg);
+  width: 427px;
+}
+
+.nasa-mobile .estrelas-g-1xvM05 {
+  height: 148px;
+  left: calc(50.00% + 418px);
+  top: 782px;
+  transform: rotate(-0.31deg);
+  width: 487px;
+}
+
+.nasa-mobile .estrelas-p-1xvM05 {
+  height: 142px;
+  left: calc(50.00% + 418px);
+  top: 791px;
+  transform: rotate(-0.31deg);
+  width: 443px;
+}
+
+.nasa-mobile .estrelas-m-Gk9xQl {
+  height: 132px;
+  left: calc(50.00% + 16px);
+  top: 14px;
+  transform: rotate(179.86deg);
+  width: 218px;
+}
+
+.nasa-mobile .estrelas-g-Gk9xQl {
+  height: 143px;
+  left: calc(50.00% + 16px);
+  top: 14px;
+  transform: rotate(179.86deg);
+  width: 225px;
+}
+
+.nasa-mobile .estrelas-p-Gk9xQl {
+  height: 141px;
+  left: calc(50.00% + 16px);
+  top: 19px;
+  transform: rotate(179.86deg);
+  width: 181px;
+}
+
+.nasa-mobile .rectangle-2-VVY8MG {
+  height: 145px;
+  left: calc(50.00% - 73px);
+  top: 13px;
+  width: 145px;
+}
+
+.nasa-mobile .mars-VVY8MG {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 97px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 2.230752468109131px 2.230752468109131px #00000040;
+  top: 3px;
+  transform: rotate(0.07deg);
+  width: 40px;
+}
+
+.nasa-mobile .marte-VVY8MG {
+  height: 22px;
+  left: calc(50.00% - 114px);
+  top: 2px;
+  width: 22px;
+}
+
+.nasa-mobile .group-22-VVY8MG {
+  left: calc(50.00% - 112px);
+}
+
+.nasa-mobile .group-23-VVY8MG {
+  background-color: transparent;
+  height: 13px;
+  left: calc(50.00% - 56px);
+  position: absolute;
+  top: 159px;
+  width: 55px;
+}
+
+.nasa-mobile .group-27-VVY8MG {
+  background-color: transparent;
+  height: 13px;
+  left: calc(50.00% + 57px);
+  position: absolute;
+  top: 159px;
+  width: 55px;
+}
+
+.nasa-mobile .group-25-VVY8MG {
+  background-color: transparent;
+  height: 13px;
+  left: calc(50.00% + 1px);
+  position: absolute;
+  top: 159px;
+  width: 55px;
+}
+
+.nasa-mobile .mars-1-VVY8MG {
+  background-color: transparent;
+  height: 142px;
+  left: calc(50.00% - 71px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 142px;
+}
+
+.nasa-mobile .modal-earth-WtCkfn {
+  background-color: transparent;
+  height: 171px;
+  left: calc(50.00% - 110px);
+  overflow: hidden;
+  position: absolute;
+  top: 353px;
+  width: 233px;
+}
+
+.nasa-mobile .rectangle-1-oKpIfZ {
+  top: 1px;
+}
+
+.nasa-mobile .rectangle-7-oKpIfZ {
+  background-color: var(--jaguar);
+  border: 0.5576881170272827px solid;
+  border-color: var(--white);
+  border-radius: 5.64px;
+  top: 1px;
+}
+
+.nasa-mobile .estrelas-m-oxIjkM {
+  height: 148px;
+  left: calc(50.00% + 472px);
+  top: 773px;
+  transform: rotate(-0.31deg);
+  width: 427px;
+}
+
+.nasa-mobile .estrelas-g-oxIjkM {
+  height: 148px;
+  left: calc(50.00% + 419px);
+  top: 785px;
+  transform: rotate(-0.31deg);
+  width: 487px;
+}
+
+.nasa-mobile .estrelas-p-oxIjkM {
+  height: 142px;
+  left: calc(50.00% + 418px);
+  top: 793px;
+  transform: rotate(-0.31deg);
+  width: 443px;
+}
+
+.nasa-mobile .estrelas-m-Kga6D1 {
+  height: 132px;
+  left: calc(50.00% + 16px);
+  top: 14px;
+  transform: rotate(179.86deg);
+  width: 218px;
+}
+
+.nasa-mobile .estrelas-g-Kga6D1 {
+  height: 143px;
+  left: calc(50.00% + 16px);
+  top: 14px;
+  transform: rotate(179.86deg);
+  width: 225px;
+}
+
+.nasa-mobile .estrelas-p-Kga6D1 {
+  height: 141px;
+  left: calc(50.00% + 16px);
+  top: 19px;
+  transform: rotate(179.86deg);
+  width: 181px;
+}
+
+.nasa-mobile .rectangle-2-oKpIfZ {
+  height: 145px;
+  left: calc(50.00% - 73px);
+  top: 12px;
+  width: 145px;
+}
+
+.nasa-mobile .earth-oKpIfZ {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 96px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 2.230752468109131px 2.230752468109131px #00000040;
+  top: 3px;
+  transform: rotate(0.07deg);
+  width: 40px;
+}
+
+.nasa-mobile .group-18-oKpIfZ {
+  background-color: transparent;
+  height: 13px;
+  left: calc(50.00% - 112px);
+  position: absolute;
+  top: 159px;
+  width: 55px;
+}
+
+.nasa-mobile .terra-oKpIfZ {
+  height: 20px;
+  left: calc(50.00% - 114px);
+  top: 3px;
+  width: 20px;
+}
+
+.nasa-mobile .group-20-oKpIfZ {
+  background-color: transparent;
+  height: 13px;
+  left: calc(50.00% - 56px);
+  position: absolute;
+  top: 159px;
+  width: 55px;
+}
+
+.nasa-mobile .group-22-oKpIfZ {
+  left: calc(50.00% + 57px);
+}
+
+.nasa-mobile .group-21-oKpIfZ {
+  background-color: transparent;
+  height: 13px;
+  left: calc(50.00% + 1px);
+  position: absolute;
+  top: 159px;
+  width: 55px;
+}
+
+.nasa-mobile .earth-1-oKpIfZ {
+  background-color: transparent;
+  height: 142px;
+  left: calc(50.00% - 71px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 142px;
+}
+
+.nasa-mobile .modal-mercury-WtCkfn {
+  background-color: transparent;
+  height: 171px;
+  left: calc(50.00% - 110px);
+  overflow: hidden;
+  position: absolute;
+  top: 180px;
+  width: 233px;
+}
+
+.nasa-mobile .rectangle-1-Wqr8Yq {
+  top: 0px;
+}
+
+.nasa-mobile .rectangle-7-Wqr8Yq {
+  background-color: var(--jaguar);
+  border: 0.5576881170272827px solid;
+  border-color: var(--white);
+  border-radius: 5.64px;
+  top: 0px;
+}
+
+.nasa-mobile .estrelas-m-JKxxf5 {
+  height: 148px;
+  left: calc(50.00% + 473px);
+  top: 946px;
+  transform: rotate(-0.31deg);
+  width: 427px;
+}
+
+.nasa-mobile .estrelas-g-JKxxf5 {
+  height: 148px;
+  left: calc(50.00% + 419px);
+  top: 958px;
+  transform: rotate(-0.31deg);
+  width: 487px;
+}
+
+.nasa-mobile .estrelas-p-JKxxf5 {
+  height: 142px;
+  left: calc(50.00% + 419px);
+  top: 966px;
+  transform: rotate(-0.31deg);
+  width: 443px;
+}
+
+.nasa-mobile .estrelas-m-x46axM {
+  height: 132px;
+  left: calc(50.00% + 16px);
+  top: 14px;
+  transform: rotate(179.86deg);
+  width: 218px;
+}
+
+.nasa-mobile .estrelas-g-x46axM {
+  height: 143px;
+  left: calc(50.00% + 16px);
+  top: 14px;
+  transform: rotate(179.86deg);
+  width: 225px;
+}
+
+.nasa-mobile .estrelas-p-x46axM {
+  height: 141px;
+  left: calc(50.00% + 16px);
+  top: 19px;
+  transform: rotate(179.86deg);
+  width: 181px;
+}
+
+.nasa-mobile .rectangle-2-Wqr8Yq {
+  height: 145px;
+  left: calc(50.00% - 68px);
+  top: 11px;
+  width: 145px;
+}
+
+.nasa-mobile .mercury-Wqr8Yq {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 95px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 2.230752468109131px 2.230752468109131px #00000040;
+  top: 2px;
+  transform: rotate(0.07deg);
+  width: 55px;
+}
+
+.nasa-mobile .mercurio-Wqr8Yq {
+  height: 20px;
+  left: calc(50.00% - 114px);
+  top: 1px;
+  width: 20px;
+}
+
+.nasa-mobile .asdiuas-Wqr8Yq {
+  background-color: transparent;
+  height: 13px;
+  left: calc(50.00% - 112px);
+  position: absolute;
+  top: 158px;
+  width: 55px;
+}
+
+.nasa-mobile .group-13-Wqr8Yq {
+  left: calc(50.00% - 56px);
+}
+
+.nasa-mobile .group-19-Wqr8Yq {
+  background-color: transparent;
+  height: 13px;
+  left: calc(50.00% + 57px);
+  position: absolute;
+  top: 159px;
+  width: 55px;
+}
+
+.nasa-mobile .group-16-Wqr8Yq {
+  background-color: transparent;
+  height: 13px;
+  left: calc(50.00% + 1px);
+  position: absolute;
+  top: 159px;
+  width: 55px;
+}
+
+.nasa-mobile .mercury-1-Wqr8Yq {
+  background-color: transparent;
+  height: 142px;
+  left: calc(50.00% - 67px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 142px;
+}
+
+.nasa-mobile .modal-sun-WtCkfn {
+  background-color: transparent;
+  height: 171px;
+  left: calc(50.00% - 112px);
+  overflow: hidden;
+  position: absolute;
+  top: 7px;
+  width: 233px;
+}
+
+.nasa-mobile .rectangle-1-xoHoDg {
+  top: 0px;
+}
+
+.nasa-mobile .rectangle-7-xoHoDg {
+  background-color: var(--jaguar);
+  border: 0.5576881170272827px solid;
+  border-color: var(--white);
+  border-radius: 5.64px;
+  top: 0px;
+}
+
+.nasa-mobile .estrelas-m-w5obHF {
+  height: 148px;
+  left: calc(50.00% + 476px);
+  top: 1119px;
+  transform: rotate(-0.31deg);
+  width: 427px;
+}
+
+.nasa-mobile .estrelas-g-w5obHF {
+  height: 148px;
+  left: calc(50.00% + 422px);
+  top: 1131px;
+  transform: rotate(-0.31deg);
+  width: 487px;
+}
+
+.nasa-mobile .estrelas-p-w5obHF {
+  height: 142px;
+  left: calc(50.00% + 422px);
+  top: 1139px;
+  transform: rotate(-0.31deg);
+  width: 443px;
+}
+
+.nasa-mobile .estrelas-m-26x2nx {
+  height: 132px;
+  left: calc(50.00% + 16px);
+  top: 14px;
+  transform: rotate(179.86deg);
+  width: 218px;
+}
+
+.nasa-mobile .estrelas-g-26x2nx {
+  height: 143px;
+  left: calc(50.00% + 16px);
+  top: 14px;
+  transform: rotate(179.86deg);
+  width: 225px;
+}
+
+.nasa-mobile .estrelas-p-26x2nx {
+  height: 141px;
+  left: calc(50.00% + 16px);
+  top: 19px;
+  transform: rotate(179.86deg);
+  width: 181px;
+}
+
+.nasa-mobile .rectangle-2-xoHoDg {
+  height: 145px;
+  left: calc(50.00% - 70px);
+  top: 12px;
+  width: 145px;
+}
+
+.nasa-mobile .sun-1-xoHoDg {
+  background-color: transparent;
+  height: 142px;
+  left: calc(50.00% - 68px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 142px;
+}
+
+.nasa-mobile .sun-xoHoDg {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 89px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 2.230752468109131px 2.230752468109131px #00000040;
+  top: 3px;
+  transform: rotate(0.07deg);
+  width: 28px;
+}
+
+.nasa-mobile .badge-xoHoDg {
+  left: calc(50.00% - 56px);
+}
+
+.nasa-mobile .sol-xoHoDg {
+  height: 31px;
+  left: calc(50.00% - 116px);
+  top: 1px;
+  width: 35px;
+}
+
+.nasa-mobile .badge-GOxUfs {
+  left: calc(50.00% - 112px);
+}
+
+.nasa-mobile .group-11-xoHoDg {
+  background-color: transparent;
+  height: 13px;
+  left: calc(50.00% + 1px);
+  position: absolute;
+  top: 159px;
+  width: 55px;
+}
+
+.nasa-mobile .group-12-xoHoDg {
+  background-color: transparent;
+  height: 13px;
+  left: calc(50.00% + 57px);
+  position: absolute;
+  top: 159px;
+  width: 55px;
+}
+
+.nasa-mobile .modal-uranus-WtCkfn {
+  background-color: transparent;
+  height: 171px;
+  left: calc(50.00% - 110px);
+  overflow: hidden;
+  position: absolute;
+  top: 702px;
+  width: 233px;
+}
+
+.nasa-mobile .rectangle-7-1m0IbL {
+  background-color: var(--jaguar);
+  border: 0.5576881170272827px solid;
+  border-color: var(--white);
+  border-radius: 5.64px;
+  top: 0px;
+}
+
+.nasa-mobile .estrelas-m-baOD34 {
+  height: 148px;
+  left: calc(50.00% + 470px);
+  top: 424px;
+  transform: rotate(-0.31deg);
+  width: 427px;
+}
+
+.nasa-mobile .estrelas-g-baOD34 {
+  height: 148px;
+  left: calc(50.00% + 417px);
+  top: 436px;
+  transform: rotate(-0.31deg);
+  width: 487px;
+}
+
+.nasa-mobile .estrelas-p-baOD34 {
+  height: 142px;
+  left: calc(50.00% + 416px);
+  top: 444px;
+  transform: rotate(-0.31deg);
+  width: 443px;
+}
+
+.nasa-mobile .estrelas-m-mjTa5P {
+  height: 132px;
+  left: calc(50.00% + 16px);
+  top: 14px;
+  transform: rotate(179.86deg);
+  width: 218px;
+}
+
+.nasa-mobile .estrelas-g-mjTa5P {
+  height: 143px;
+  left: calc(50.00% + 16px);
+  top: 14px;
+  transform: rotate(179.86deg);
+  width: 225px;
+}
+
+.nasa-mobile .estrelas-p-mjTa5P {
+  height: 141px;
+  left: calc(50.00% + 16px);
+  top: 19px;
+  transform: rotate(179.86deg);
+  width: 181px;
+}
+
+.nasa-mobile .rectangle-2-1m0IbL {
+  height: 145px;
+  left: calc(50.00% - 73px);
+  top: 10px;
+  width: 145px;
+}
+
+.nasa-mobile .uranus-1m0IbL {
+  height: auto;
+  left: calc(50.00% - 92px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  text-align: center;
+  text-shadow: 0px 2.230752468109131px 2.230752468109131px #00000040;
+  top: 2px;
+  transform: rotate(0.07deg);
+  width: 55px;
+}
+
+.nasa-mobile .nepturne-1m0IbL {
+  height: 25px;
+  left: calc(50.00% - 114px);
+  top: 2px;
+  width: 25px;
+}
+
+.nasa-mobile .group-30-1m0IbL {
+  background-color: transparent;
+  height: 13px;
+  left: calc(50.00% - 112px);
+  position: absolute;
+  top: 159px;
+  width: 55px;
+}
+
+.nasa-mobile .group-32-1m0IbL {
+  background-color: transparent;
+  height: 13px;
+  left: calc(50.00% - 56px);
+  position: absolute;
+  top: 159px;
+  width: 55px;
+}
+
+.nasa-mobile .group-35-1m0IbL {
+  background-color: transparent;
+  height: 13px;
+  left: calc(50.00% + 57px);
+  position: absolute;
+  top: 159px;
+  width: 55px;
+}
+
+.nasa-mobile .group-34-1m0IbL {
+  background-color: transparent;
+  height: 13px;
+  left: calc(50.00% + 1px);
+  position: absolute;
+  top: 159px;
+  width: 55px;
+}
+
+.nasa-mobile .uranus-1-1m0IbL {
+  background-color: transparent;
+  height: 142px;
+  left: calc(50.00% - 71px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 142px;
+}
+
+.nasa-mobile .modal-jupiter-WtCkfn {
+  background-color: transparent;
+  height: 171px;
+  left: calc(50.00% - 108px);
+  overflow: hidden;
+  position: absolute;
+  top: 529px;
+  width: 233px;
+}
+
+.nasa-mobile .rectangle-1-1gq16A {
+  top: 1px;
+}
+
+.nasa-mobile .rectangle-7-1gq16A {
+  background-color: var(--jaguar);
+  border: 0.5576881170272827px solid;
+  border-color: var(--white);
+  border-radius: 5.64px;
+  top: 1px;
+}
+
+.nasa-mobile .estrelas-m-W89ayC {
+  height: 148px;
+  left: calc(50.00% + 469px);
+  top: 597px;
+  transform: rotate(-0.31deg);
+  width: 427px;
+}
+
+.nasa-mobile .estrelas-g-W89ayC {
+  height: 148px;
+  left: calc(50.00% + 416px);
+  top: 609px;
+  transform: rotate(-0.31deg);
+  width: 487px;
+}
+
+.nasa-mobile .estrelas-p-W89ayC {
+  height: 142px;
+  left: calc(50.00% + 415px);
+  top: 617px;
+  transform: rotate(-0.31deg);
+  width: 443px;
+}
+
+.nasa-mobile .estrelas-m-HNAsLK {
+  height: 132px;
+  left: calc(50.00% + 16px);
+  top: 14px;
+  transform: rotate(179.86deg);
+  width: 218px;
+}
+
+.nasa-mobile .estrelas-g-HNAsLK {
+  height: 143px;
+  left: calc(50.00% + 16px);
+  top: 14px;
+  transform: rotate(179.86deg);
+  width: 225px;
+}
+
+.nasa-mobile .estrelas-p-HNAsLK {
+  height: 141px;
+  left: calc(50.00% + 16px);
+  top: 19px;
+  transform: rotate(179.86deg);
+  width: 181px;
+}
+
+.nasa-mobile .rectangle-2-1gq16A {
+  height: 145px;
+  left: calc(50.00% - 73px);
+  top: 13px;
+  width: 145px;
+}
+
+.nasa-mobile .jupiter-1gq16A {
+  height: auto;
+  left: calc(50.00% - 92px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  text-align: center;
+  text-shadow: 0px 2.230752468109131px 2.230752468109131px #00000040;
+  top: 3px;
+  transform: rotate(0.07deg);
+  width: 55px;
+}
+
+.nasa-mobile .rectangle-6-1gq16A {
+  background-color: transparent;
+  height: 13px;
+  left: calc(50.00% + 57px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 159px;
+  width: 55px;
+}
+
+.nasa-mobile .x2479-ms-1gq16A {
+  background-color: transparent;
+  height: 6px;
+  left: calc(50.00% + 70px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 161px;
+  width: 35px;
+}
+
+.nasa-mobile .jupiter-uDhKsN {
+  height: 28px;
+  left: calc(50.00% - 114px);
+  top: 2px;
+  width: 28px;
+}
+
+.nasa-mobile .group-24-1gq16A {
+  background-color: transparent;
+  height: 13px;
+  left: calc(50.00% - 112px);
+  position: absolute;
+  top: 159px;
+  width: 55px;
+}
+
+.nasa-mobile .group-26-1gq16A {
+  background-color: transparent;
+  height: 13px;
+  left: calc(50.00% - 56px);
+  position: absolute;
+  top: 159px;
+  width: 55px;
+}
+
+.nasa-mobile .group-9-1gq16A {
+  background-color: transparent;
+  height: 9px;
+  left: calc(50.00% + 60px);
+  position: absolute;
+  top: 159px;
+  width: 9px;
+}
+
+.nasa-mobile .group-28-1gq16A {
+  background-color: transparent;
+  height: 13px;
+  left: calc(50.00% + 1px);
+  position: absolute;
+  top: 159px;
+  width: 55px;
+}
+
+.nasa-mobile .jupiter-1-1gq16A {
+  background-color: transparent;
+  height: 135px;
+  left: calc(50.00% - 71px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 142px;
+}
+
+.nasa-mobile .logo-nasa-WtCkfn {
+  background-color: transparent;
+  height: 36px;
+  left: calc(50.00% + 92px);
+  position: fixed;
+  top: 7px;
+  width: 64px;
+}
+
+.nasa-mobile .logo-nasa-An6Ppe {
+  background-color: transparent;
+  height: 17px;
+  left: calc(50.00% - 32px);
+  position: absolute;
+  top: 1px;
+  width: 62px;
+}
+
+.nasa-mobile .see-the-astronomy-picture-of-the-day-An6Ppe {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxxxs);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: calc(50.00% - 32px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 19px;
+  transform: rotate(0.07deg);
+  width: 61px;
+}
+
+.nasa-mobile .badge {
+  background-color: transparent;
+  height: 13px;
+  position: absolute;
+  top: 159px;
+  width: 55px;
+}
+
+.nasa-mobile .ellipse-1 {
+  background-color: var(--alto);
+  border-radius: 2.43px;
+  height: 5px;
+  left: 77.29%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 8px;
+  width: 0.61%;
+}
+
+.nasa-mobile .ge-2 {
+  background-color: transparent;
+  height: 162px;
+  left: calc(50.00% - 116px);
+  overflow: hidden;
+  position: absolute;
+  top: 186px;
+  transform: rotate(0.31deg);
+  width: 488px;
+}
+
+.nasa-mobile .ge-3 {
+  background-color: transparent;
+  height: 160px;
+  left: calc(50.00% - 108px);
+  overflow: hidden;
+  position: absolute;
+  top: 26px;
+  transform: rotate(-179.86deg);
+  width: 480px;
+}
+
+.nasa-mobile .ge-6 {
+  background-color: transparent;
+  height: 277px;
+  overflow: hidden;
+  position: absolute;
+  transform: rotate(-1.93deg);
+  width: 249.90%;
+}
+
+.nasa-mobile .group-13 {
+  background-color: transparent;
+  height: 13px;
+  position: absolute;
+  top: 159px;
+  width: 55px;
+}
+
+.nasa-mobile .group-22 {
+  background-color: transparent;
+  height: 13px;
+  position: absolute;
+  top: 159px;
+  width: 55px;
+}
+
+.nasa-mobile .line-3 {
+  background-color: transparent;
+  height: 8px;
+  left: calc(50.00% - 3px);
+  position: absolute;
+  top: 1px;
+  width: 6px;
+}
+
+.nasa-mobile .line-4 {
+  background-color: transparent;
+  height: 8px;
+  left: calc(50.00% - 3px);
+  position: absolute;
+  top: 2px;
+  width: 6px;
+}
+
+.nasa-mobile .rectangle-1 {
+  background-color: var(--jaguar);
+  border: 0.5576881170272827px solid;
+  border-color: var(--white);
+  border-radius: 5.64px;
+  height: 171px;
+  left: calc(50.00% - 116px);
+  mix-blend-mode: normal;
+  position: absolute;
+  width: 232px;
+}
+
+.nasa-mobile .rectangle-7 {
+  height: 171px;
+  left: calc(50.00% - 116px);
+  mix-blend-mode: normal;
+  position: absolute;
+  width: 232px;
+}
+
+.nasa-mobile .x-lg {
+  background-color: transparent;
+  height: 11px;
+  left: calc(50.00% + 102px);
+  overflow: hidden;
+  position: absolute;
+  top: 1px;
+  width: 9px;
+}
+@media screen and (max-width: 768px) {
+  .screen.index { 
+    display: none;
+   }
+}
+@media screen and (min-width: 769px) {
+  .screen.nasa-mobile { 
+    display: none;
+   }
+}
